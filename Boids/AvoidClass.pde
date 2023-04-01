@@ -9,7 +9,7 @@ class Avoid {
    }
    
    void draw () {
-     fill(0, 255, 200);
+     fill(#A2BAF5);
      ellipse(pos.x, pos.y, 15, 15);
    }
 }
